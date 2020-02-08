@@ -18,7 +18,6 @@ module.exports = {
             2
         ],
         "no-trailing-spaces": "error",
-        "no-console": 1,
         "object-curly-spacing": [
             "error", "always"
         ],
