@@ -1,11 +1,8 @@
+const app = require('./app')
+const http = require('http')
 
-const express = require('express')
-const app = express()
+const server = http.createServer(app)
 
-const restaurantsRouter = require('./controllers/restaurants')
-
-app.use('/restaurants', restaurantsRouter)
-
-app.listen(3000, () => {
+server.listen(3000, () => {
   console.log('Server running on port 3000')
 })
