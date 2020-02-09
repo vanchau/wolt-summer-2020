@@ -1,0 +1,125 @@
+ [
+        {
+            "blurhash": "UUKJMXv|x]oz0gtRM{V@AHRQwvxZXSs9s;o0",
+            "city": "Helsinki",
+            "currency": "EUR",
+            "delivery_price": 390,
+            "description": "Asennehamppari",
+            "image": "https://prod-wolt-venue-images-cdn.wolt.com/5b348b31fe8992000bbec771/2be8c7738b220df2f9a0974da5c90d90",
+            "location": [
+                24.941325187683105,
+                60.169938852212965
+            ],
+            "name": "Social Burgerjoint Citycenter",
+            "online": false,
+            "tags": [
+                "hamppari",
+                "fries"
+            ]
+        },
+        {
+            "blurhash": "UUKJMXv|x]oz0gtRM{V@AHRQwvxZXSs9s;o0",
+            "city": "Helsinki",
+            "currency": "EUR",
+            "delivery_price": 390,
+            "description": "Asennehamppari",
+            "image": "https://prod-wolt-venue-images-cdn.wolt.com/5b348b31fe8992000bbec771/2be8c7738b220df2f9a0974da5c90d90",
+            "location": [
+                24.941325187683105,
+                60.169938852212965
+            ],
+            "name": "Social Joint",
+            "online": false,
+            "tags": [
+                "burger",
+                "fries"
+            ]
+        },
+        {
+            "blurhash": "UUKJMXv|x]oz0gtRM{V@AHRQwvxZXSs9s;o0",
+            "city": "Helsinki",
+            "currency": "EUR",
+            "delivery_price": 390,
+            "description": "Asenneburgeri",
+            "image": "https://prod-wolt-venue-images-cdn.wolt.com/5b348b31fe8992000bbec771/2be8c7738b220df2f9a0974da5c90d90",
+            "location": [
+                24.941325187683105,
+                60.169938852212965
+            ],
+            "name": "Social Joint",
+            "online": false,
+            "tags": [
+                "hamppari",
+                "fries"
+            ]
+        },
+        {
+            "blurhash": "U8INy*D+KjIW%3pZ$yx[5T0Lv|_1.3m,0z9h",
+            "city": "Helsinki",
+            "currency": "EUR",
+            "delivery_price": 390,
+            "description": "Japanilaista ramenia parhaimmillaan",
+            "image": "https://prod-wolt-venue-images-cdn.wolt.com/5d108aa82e757db3f4946ca9/d88ebd36611a5e56bfc6a60264fe3f81",
+            "location": [
+                24.941786527633663,
+                60.169934599421396
+            ],
+            "name": "Momotoko Citycenter",
+            "online": false,
+            "tags": [
+                "ramen",
+                "risotto"
+            ]
+        },
+        {
+            "blurhash": "UXJHswsy-n%0~T%Ka%NLNFjFxvNe%MRjM|ax",
+            "city": "Helsinki",
+            "currency": "EUR",
+            "delivery_price": 390,
+            "description": "Modernia gourmet-kebabia ",
+            "image": "https://prod-wolt-venue-images-cdn.wolt.com/5abcf2d270aae6000deacff0/9c21840f97e01f5c293eae0993b4faa2",
+            "location": [
+                24.94184732393478,
+                60.16993168083865
+            ],
+            "name": "D\u00f6ner Harju City",
+            "online": true,
+            "tags": [
+                "kebab",
+                "d\u00f6ner"
+            ]
+        },
+        {
+            "blurhash": "ULL;EN%4?c-Oys?wxuTJ?ujERQMxw[M{aeR4",
+            "city": "Helsinki",
+            "currency": "EUR",
+            "delivery_price": 390,
+            "description": "Viihtyis\u00e4 kiinalainen ravintola",
+            "image": "https://prod-wolt-venue-images-cdn.wolt.com/5cfa497902b535ee1c620fca/2c451d88fe96dc04d228dc4cd3dd23a5",
+            "location": [
+                24.94148075580597,
+                60.16990257838493
+            ],
+            "name": "Bi\u00e1ng! Citycenter",
+            "online": true,
+            "tags": [
+                "chinese",
+                "asian"
+            ]
+        },
+        {
+            "blurhash": "UULXA2%1%%a#oIxZM{kC.TofROWCxuRkogWU",
+            "city": "Helsinki",
+            "currency": "EUR",
+            "delivery_price": 390,
+            "description": "Maailman suurin pizzaketju",
+            "image": "https://prod-wolt-venue-images-cdn.wolt.com/55fff28cdef54a6c86e71bd5/dbe320a61e265a1a85293db4d4f962ae",
+            "location": [
+                24.94167387485504,
+                60.16923254771562
+            ],
+            "name": "Pizza Hut Cityk\u00e4yt\u00e4v\u00e4",
+            "online": true,
+            "tags": []
+        }
+]
