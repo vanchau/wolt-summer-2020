@@ -1,8 +1,12 @@
 # Wolt-summer-2020
 
 ## Option 2) Backend task - search
+Online API request example
 
-Setting up the project
+[http://wolt-summer-2020.herokuapp.com/restaurants/search?q=pizza&lat=60.17045&lon=24.93147](http://wolt-summer-2020.herokuapp.com/restaurants/search?q=pizza&lat=60.17045&lon=24.93147)
+
+
+Setting up the project locally
 1) clone the repository
 2) to install dependencies
 ```sh
