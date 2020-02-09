@@ -1,10 +1,20 @@
 {
   "devDependencies": {
-    "eslint": "^6.8.0"
+    "eslint": "^6.8.0",
+    "eslint-plugin-jest": "^23.7.0",
+    "jest": "^25.1.0",
+    "supertest": "^4.0.2"
   },
   "dependencies": {
     "express": "^4.17.1",
     "express-validator": "^6.4.0",
     "haversine-distance": "^1.1.6"
+  },
+  "scripts": {
+    "test": "jest --verbose",
+    "lint": "eslint ."
+  },
+  "jest": {
+    "testEnvironment": "node"
   }
 }
